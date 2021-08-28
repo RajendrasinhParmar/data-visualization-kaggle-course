@@ -10,6 +10,13 @@ This repository contain jupiter note books for the whole Data Visualization cour
 
 Link to the course. [Data Visualization](https://www.kaggle.com/learn/data-visualization)
 
-| Links                               |
-|:-----------------------------------:|
-|  [Hello_Seaborn](./Hello_Seaborn)   |
+| Links                                                                                 |
+|:--------------------------------------------------------------------------------------|
+|  [Hello Seaborn](./01_Hello_Seaborn)                                                  |
+|  [Line Charts](./02_Line_Charts)                                                      |
+|  [Bar Charts and Heatmaps](./03_Bar_Charts_and_Heatmaps)                              |
+|  [Scatter Plots](./04_Scatter_Plots)                                                  |
+|  [Distributions](./05_Distributions)                                                  |
+|  [Choosing Plot Types and Custom Styles](./06_Choosing_Plot_Types_and_Custom_Styles)  |
+|  [Final Project](./07_Final_Project)                                                  |
+|  [Creating Your Own Notebooks](./08_Creating_Your_Own_Notebooks)                      |
